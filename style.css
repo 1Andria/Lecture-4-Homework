@@ -1,0 +1,56 @@
+/* ვსტილავ table.html-ის ფაილს */
+table{
+    border: 5px solid;
+}
+th{
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+}
+
+.table_caption{
+    color: chocolate;
+}
+
+.table_heading{
+    color: brown; text-align: left;
+}
+
+.lastnames_blue{
+    color: blue;
+}
+
+.names_red{
+    color: red;
+}
+
+.ages_green{
+    color: green;
+}
+
+.place_sky{
+    color: rgb(136, 172, 235);
+}
+
+/* ვსტილავ video.html-ის ფაილს */
+
+.video_size{
+    width: 560px;
+    height: 315;
+
+}
+
+.video_heading{
+    color: goldenrod; background-color: black; width: 560px;
+}
+
+/* ვსტილავ index.html ფაილს */
+
+.table_main_heading{
+    color: aquamarine;background-color: black; width: 170px; text-align: center;
+}
+
+.video_main_heading{
+    color: aquamarine;background-color: black; width: 170px; text-align: center;
+}
